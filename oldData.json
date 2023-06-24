@@ -1,0 +1,39 @@
+[
+  {
+    "title": "baseSet",
+    "set": [
+      {
+        "category": "instrument",
+        "description": "A Strummed, Plucked, Bowed or Hit string"
+      },
+      {
+        "category": "instrument",
+        "description": "Press, Click, Punch or Type a trigger (or sample)"
+      },
+      {
+        "category": "instrument",
+        "description": "Hit, Tap, Bop or Clang a percussion"
+      },
+      {
+        "category": "instrument",
+        "description": "Move, Blow, Resonate or Verbalize air"
+      },
+      { "category": "effect", "description": "Delay" },
+      { "category": "effect", "description": "Filter" },
+      { "category": "effect", "description": "Distort" },
+      { "category": "effect", "description": "Modulate" },
+      { "category": "role", "description": "for Bass" },
+      { "category": "role", "description": "for a Pad" },
+      { "category": "role", "description": "for a Melody" },
+      { "category": "role", "description": "for a Rhythm" },
+      {
+        "category": "universal",
+        "description": "Is your track too catchy? Better make it weirder."
+      },
+      {
+        "category": "universal",
+        "description": "Is your track too abstract? Better make it more mainstream."
+      }
+    ]
+  }
+]
