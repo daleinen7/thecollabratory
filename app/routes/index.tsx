@@ -24,8 +24,6 @@ export const loader: LoaderFunction = async () => {
 export default function Index() {
   const data = useLoaderData<LoaderData>();
 
-  console.log("DATA: ", data);
-
   const user = useOptionalUser();
   return (
     <main className="relative min-h-screen bg-white sm:flex sm:items-center sm:justify-center">
